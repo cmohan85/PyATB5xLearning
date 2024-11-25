@@ -1,5 +1,5 @@
 # Multiple variable assignment
- , b , c = 45, 55, 65
+a , b , c = 45, 55, 65
 print(a)
 print(b)
 print(c)
